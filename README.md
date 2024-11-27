@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+- 👯 I'm learning computer engineering
 - 🔭 I’m currently working on term project
 - 🌱 I’m currently learning OSS
-- 👯 I'm learning computer engineering
-- ⚡ Fun fact: 
+- ⚡ My field of interest is game production. My personal favorite game is Hollow Night
 -->
